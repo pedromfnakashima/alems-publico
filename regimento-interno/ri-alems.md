@@ -5,55 +5,251 @@ description: "Regimento Interno da Alems, aprovado como anexo da Resolução 65/
 resource: "regimento-interno/Regimento Interno - Alteração10 - Atualizado-abr-25.docx"
 tags: [regimento-interno, alems, mato-grosso-do-sul, processo-legislativo, norma-estadual, resolucao-65-2008]
 status: stable
-generated: { by: claude-code/claude-opus-5, at: 2026-09-10T14:08:32Z }
-verified: { by: process:verificacao-integridade-conversao, at: 2026-09-10T14:08:32Z }
+generated: { by: claude-code/claude-opus-5, at: 2026-09-10T10:08:32-04:00 }
+last_modified: 2026-09-14T16:08:33-04:00
+last_reviewed: { by: human:pedromfnakashima, at: 2026-09-14T16:08:33-04:00 }
+verified:
+  - { by: process:verificacao-integridade-conversao, at: 2026-09-10T10:08:32-04:00 }
+  - { by: human:pedromfnakashima, at: 2026-09-14T16:08:33-04:00 }
 sources:
   - id: docx-alteracao-10
     resource: "regimento-interno/Regimento Interno - Alteração10 - Atualizado-abr-25.docx"
     title: "Regimento Interno — Alteração 10 — atualizado até abril de 2025 (arquivo DOCX de origem)"
-    last_modified: 2025-12-03T20:26:30Z
+    last_modified: 2025-12-03T16:26:30-04:00
+base_act:
+  resolution: "65/08"
+  enacted: 2008-12-17
+  title: "Resolução 65/08 — aprova a reforma geral do Regimento Interno da Alems"
+  role: "Texto original; o Regimento Interno é o seu anexo."
+amendment_history:
+  order: chronological-ascending
+  criterion: enacted
+  extracted_from: "Notas de alteração no corpo deste arquivo (marcações de revogação, alteração, acréscimo e supressão)."
+  links_checked_at: 2026-09-14T16:00:50-04:00
+  count: 30
+amendments:
+  - resolution: "37/09"
+    enacted: 2009-09-10
+    published: 2009-09-11
+    gazette: "D.O. MS, 11/09/2009, p. 33 (ed. 7.540)"
+    url: "https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7540_11_09_2009"
+    url_status: dead
+  - resolution: "86/10"
+    enacted: 2010-12-08
+    published: 2010-12-09
+    gazette: "D.O. MS, 09/12/2010, p. 63 (ed. 7.843)"
+    url: "https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010"
+    url_status: dead
+    note: "A nota do art. 346 indica a data 07/12/2010; as demais citações no texto indicam 08/12/2010."
+  - resolution: "08/11"
+    enacted: 2011-05-04
+    published: 2011-05-05
+    gazette: "D.O. MS, 05/05/2011, p. 44 (ed. 7.942)"
+    url: "https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7942_05_05_2011"
+    url_status: dead
+  - resolution: "26/11"
+    enacted: 2011-07-06
+    published: 2011-07-07
+    gazette: "D.O. MS, 07/07/2011, p. 59 (ed. 7.984)"
+    url: "https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7984_07_07_2011"
+    url_status: dead
+    note: "A nota do art. 166 indica a data 06/06/2011; as demais citações indicam 06/07/2011, coerente com a publicação em 07/07/2011."
+  - resolution: "10/12"
+    enacted: 2012-05-10
+    published: 2012-05-16
+    gazette: "D.O. ALEMS, 16/05/2012, p. 7"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=kD6urKUj7ho="
+    url_status: ok
+  - resolution: "28/13"
+    enacted: 2013-05-14
+    published: 2013-05-16
+    gazette: "D.O. ALEMS, 16/05/2013, p. 7"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY="
+    url_status: ok
+  - resolution: "35/13"
+    enacted: 2013-05-22
+    published: 2013-05-24
+    gazette: "D.O. ALEMS, 24/05/2013, p. 5"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=7DSgTxu6rhw="
+    url_status: ok
+  - resolution: "64/13"
+    enacted: 2013-10-08
+    published: 2013-10-09
+    gazette: "D.O. ALEMS, 09/10/2013, p. 4"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=EB7afxRzYpY="
+    url_status: ok
+  - resolution: "67/13"
+    enacted: 2013-10-10
+    published: 2013-10-14
+    gazette: "D.O. ALEMS, 14/10/2013, p. 4"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=ZcwzUss0BlQ="
+    url_status: ok
+  - resolution: "03/15"
+    enacted: 2015-03-12
+    published: 2015-03-13
+    gazette: "D.O. ALEMS, 13/03/2015, p. 3"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=uu35bLtrocaDivZpLA="
+    url_status: ok
+  - resolution: "23/16"
+    enacted: 2016-06-06
+    published: 2016-06-21
+    gazette: "D.O. ALEMS, 21/06/2016, p. 3"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ="
+    url_status: ok
+  - resolution: "14/16"
+    enacted: 2016-06-07
+    published: 2016-06-08
+    gazette: "D.O. ALEMS, 08/06/2016, p. 2"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0="
+    url_status: ok
+  - resolution: "15/16"
+    enacted: 2016-06-07
+    published: 2016-06-08
+    gazette: "D.O. ALEMS, 08/06/2016, Suplemento, p. 2"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0="
+    url_status: ok
+    note: "Mesma edição do D.O. da Resolução 14/16; a nota no texto remete ao Suplemento."
+  - resolution: "17/16"
+    enacted: 2016-06-09
+    published: 2016-06-10
+    gazette: "D.O. ALEMS, 10/06/2016, p. 6"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=ALPAG0UMGVM="
+    url_status: ok
+  - resolution: "26/16"
+    enacted: 2016-06-23
+    published: 2016-06-24
+    gazette: "D.O. ALEMS, 24/06/2016, p. 3"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0ARqdhbLjJk="
+    url_status: ok
+  - resolution: "30/16"
+    enacted: 2016-08-04
+    published: 2016-08-05
+    gazette: "D.O. ALEMS, 05/08/2016, p. 2"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=FLmGtgPPa3o="
+    url_status: ok
+  - resolution: "31/16"
+    enacted: 2016-08-11
+    published: 2016-08-12
+    gazette: "D.O. ALEMS, 12/08/2016, p. 5"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=BzEKW40dPvI="
+    url_status: ok
+    note: 'Citada uma vez no art. 233 como "Resolução nº 31/15", com data, publicação e link idênticos — aparente erro de digitação na fonte.'
+  - resolution: "38/16"
+    enacted: 2016-09-15
+    published: 2016-09-21
+    gazette: "D.O. ALEMS, 21/09/2016, p. 6"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0xj9JDzlGi0="
+    url_status: ok
+  - resolution: "39/16"
+    enacted: 2016-09-20
+    published: 2016-09-21
+    gazette: "D.O. ALEMS, 21/09/2016, p. 6"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0xj9JDzlGi0="
+    url_status: ok
+    note: "Publicada na mesma edição do D.O. da Resolução 38/16."
+  - resolution: "81/16"
+    enacted: 2016-10-20
+    published: 2016-10-21
+    gazette: "D.O. ALEMS, 21/10/2016, p. 2"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=bgHlS7aKJw4="
+    url_status: ok
+  - resolution: "82/16"
+    enacted: 2016-11-24
+    published: 2016-11-30
+    gazette: "D.O. ALEMS, 30/11/2016, p. 5"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=lDP3lT0eLP0="
+    url_status: ok
+  - resolution: "83/16"
+    enacted: 2016-12-07
+    published: 2016-12-08
+    gazette: "D.O. ALEMS, 08/12/2016, p. 11"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=d5WNoXYWrKc="
+    url_status: ok
+  - resolution: "90/17"
+    enacted: 2017-10-26
+    published: 2017-10-27
+    gazette: "D.O. ALEMS, 27/10/2017, p. 4"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=D8UPtrocaAdiAUSr9A="
+    url_status: ok
+  - resolution: "68/22"
+    enacted: 2022-12-06
+    published: 2022-12-06
+    gazette: "D.O. ALEMS, 06/12/2022, p. 3"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=eKatrocaAdi3wImvMQeKnmlykmEcQ=="
+    url_status: ok
+  - resolution: "02/23"
+    enacted: 2023-05-04
+    published: 2023-05-05
+    gazette: "D.O. ALEMS, 05/05/2023, p. 3"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=VlAIxI2b4rBVS7saWaIVtQ=="
+    url_status: ok
+  - resolution: "07/23"
+    enacted: 2023-06-06
+    published: 2023-06-07
+    gazette: "D.O. ALEMS, 07/06/2023, p. 3"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=etMMZXzPyQ7Jejl7McyhBA=="
+    url_status: ok
+  - resolution: "08/23"
+    enacted: 2023-06-07
+    published: 2023-06-14
+    gazette: "D.O. ALEMS, 14/06/2023, p. 3"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA=="
+    url_status: ok
+  - resolution: "08/24"
+    enacted: 2024-05-22
+    published: 2024-05-23
+    gazette: "D.O. ALEMS, 23/05/2024, p. 3"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=gxmD91M3E0VI0X0jytrocaAdiUKQA=="
+    url_status: ok
+  - resolution: "01/25"
+    enacted: 2025-04-08
+    published: 2025-04-09
+    gazette: "D.O. ALEMS, 09/04/2025, p. 3"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5GMB1AD1lHNtrocaAdipHkhnoEG3Q=="
+    url_status: ok
+  - resolution: "03/25"
+    enacted: 2025-04-23
+    published: 2025-04-24
+    gazette: "D.O. ALEMS, 24/04/2025, p. 3"
+    url: "https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=R8RaS4HOGybPmybAsuQsbA=="
+    url_status: ok
 ---
 
 # Regimento Interno da Assembleia Legislativa do Estado de Mato Grosso do Sul
 
-> Anexo da Resolução 65/08, de 17 de dezembro de 2008.
+> Anexo da Resolução 65/2008, de 17 de dezembro de 2008.
 > Conversão integral para Markdown do arquivo `Regimento Interno - Alteração10 - Atualizado-abr-25.docx`, sem alteração de conteúdo.
 
-RESOLUÇÃO 65/08,
+RESOLUÇÃO 65/2008, de 17 de dezembro de 2008
 
-de 17 de dezembro de 2008
+Mesa Diretora - 10ª Legislatura - 1ª e 2ª Sessão Legislativa - 2015/2016:
+- Deputado Júnior Mochi - Presidente
+- Deputado Onevan de Matos - 1º Vice Presidente
+- Deputada Grazielle Machado - 2º Vice Presidente
+- Deputada Mara Caseiro - 3º Vice Presidente
+- Deputado Zé Teixeira - 1º Secretário
+- Deputado Cabo Almi - 2º Secretário
+- Deputado Felipe Orro - 3º Secretário
 
-Mesa Diretora
+Créditos editoriais
+- Edição: Consultoria Técnica Jurídica
+- Atualização e índice:
+  - Dr. Cleómenes Nunes da Cunha (Consultor Técnico Jurídico)
+- Apoio Técnico (Consultores):
+  - Dr. Roberto Carlos da Silva
+  - Dr. Gustavo Giacchini
+  - Dra. Maria Marta Pavan
+- Digitação e diagramação:
+  - Manoel Fernando Colman
+- Pesquisa e apoio:
+  - Valéria Faquer Gomes Silva
+  - Balbino Romero
+  - Marina Vieira dos Santos
+  - Rosângela Capurro Vital
 
-10ª Legislatura - 1ª e 2ª Sessão Legislativa
+RESOLUÇÃO 65/2008
 
-2015/2016
-
-Deputado Júnior Mochi - Presidente Deputado Onevan de Matos - 1º Vice Presidente Deputada Grazielle Machado - 2º Vice Presidente Deputada Mara Caseiro - 3º Vice Presidente Deputado Zé Teixeira - 1º Secretário
-
-Deputado Cabo Almi - 2º Secretário
-
-Deputado Felipe Orro - 3º Secretário
-
-Edição: Consultoria Técnica Jurídica
-
-Atualização e índice: Dr. Cleómenes Nunes da Cunha
-
-Consultor Técnico Jurídico
-
-Apoio Técnico: Dr. Roberto Carlos da Silva Dr. Gustavo Giacchini
-
-Dra. Maria Marta Pavan Consultores
-
-Digitação e diagramação : Manoel Fernando Colman Pesquisa e apoio : Valéria Faquer Gomes Silva
-
-Balbino Romero
-
-Marina Vieira dos Santos Rosângela Capurro Vital
-
-RESOLUÇÃO 65/ 08
-
-Aprova a reforma geral do Regimento Interno da Assembleia Legislativa do Estado de Mato Grosso do Sul, e dá outras providencias.
+Ementa: Aprova a reforma geral do Regimento Interno da Assembleia Legislativa do Estado de Mato Grosso do Sul, e dá outras providencias.
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE MATO GROSSO DO SUL, no uso de suas atribuições legais e regimentais, considerando o disposto no art.63, III da Constituição Estadual e no art. 31, I "h" do Regimento Interno, promulga a seguinte Resolução:
 
@@ -74,24 +270,21 @@ Art. 7° Revogam-se as disposições da Resolução n° 04, de 30 de setembro de
 Campo Grande, 17 de dezembro de 2008
 
 Deputado Jerson Domingos
-
 Presidente
 
-Deputado Ary Rigo Deputado Professor Rinaldo
+Deputado Ary Rigo
+1º Secretário
 
-1º Secretário 2º Secretário
+Deputado Professor Rinaldo
+2º Secretário
 
-Regimento Interno
+Regimento Interno (Anexo da Resolução nº 65/2008, de 17 de dezembro de 2008)
 
-Anexo da Resolução nº 65/08, de 17 de dezembro de 2008
-
+Publicação:
 - Diário Oficial de 19/12/2008, pág. 43 e ss.
-
 - Errata: Diário Oficial de 20/02/2009, pág. 49
 
 (Atualizado até abril de 2025)
-
-ÍNDICE
 
 ## Sumário
 
